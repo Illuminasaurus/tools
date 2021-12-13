@@ -1,5 +1,5 @@
-# <application Data Labeling>
+# <application Test & Evaluation>
 
 ## Description
 
-This extension image contains Deep Learning related packages for AI/ML projects.
+This extension image launches tensorboard.
